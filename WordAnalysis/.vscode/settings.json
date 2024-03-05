@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "terminal.integrated.autoReplies": {
+        // "terminal.integrated.shellArgs.windows": ["/K", "chcp 65001"]
+    },
+    "files.autoGuessEncoding": true
+}
